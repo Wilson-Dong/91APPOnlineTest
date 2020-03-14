@@ -1,0 +1,14 @@
+新增專案OrderList
+事先在DB開好Table
+前端畫面寫好後換寫後端撈資料庫資料
+資料撈出後寫Confirm Button的功能，更改DB的值
+改完狀態後寫link button功能看詳細資料
+
+demo功能
+選定的資料狀態更改為To be shipped
+頁面重啟後狀態仍然為To be shipped，因為DB的直已被更改
+選擇Product看詳細資料
+
+最後整理程式碼
+
+結束
